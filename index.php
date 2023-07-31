@@ -10,6 +10,10 @@
 <body>
     <h1>hellow world</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere perferendis a error cumque, hic perspiciatis consequatur qui impedit consequuntur delectus dignissimos natus, nisi aliquid earum cum voluptas, labore sed ab.</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
 </body>
 
 </html>
